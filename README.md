@@ -1,4 +1,5 @@
-developer and entreprenuer 
+<p>
+developer and entreprenuer
 | founder of Nyria, Xernium, Unifye
 | python developer focusing in finance, automation, and back end
 | 
@@ -7,3 +8,4 @@ developer and entreprenuer
 | 
 | build bigger.
 | > bentheanon.io
+</p>
