@@ -7,5 +7,5 @@
 <b>|</b> <a href='alwaysascending.io'>alwaysascending.io</a><br>
 <b>|</b> <br>
 <b>|</b> build bigger.<br>
-  <b>|</b> > <a href='bentheanon.io'>bentheanon.i</a><br>
+  <b>|</b> > <a href='bentheanon.io'>bentheanon.io</a><br>
 </p>
