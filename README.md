@@ -3,9 +3,9 @@
 | founder of Nyria, Xernium, Unifye<br>
 | python developer focusing in finance, automation, and back end<br>
 | <br>
-| flytlabs.dev<br>
-| alwaysascending.io<br>
+| <a href='flytlabs.dev'/><br>
+| <a href='alwaysascending.io'/><br>
 | <br>
 | build bigger.<br>
-| > bentheanon.io <br>
+| > <a href='bentheanon.io'/> <br>
 </p>
