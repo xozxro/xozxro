@@ -1,3 +1,9 @@
-Python developer dabbing in expirmental data automation and analysis projects
-<br></br>
-Reach me @xozxro on Twitter
+developer and entreprenuer 
+| founder of Nyria, Xernium, Unifye
+| python developer focusing in finance, automation, and back end
+| 
+| flytlabs.dev
+| alwaysascending.io
+| 
+| build bigger.
+| > bentheanon.io
