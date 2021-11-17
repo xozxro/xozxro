@@ -8,5 +8,5 @@
 <b>|</b> <a href='https://www.alwaysascending.io'>alwaysascending.io</a><br>
 <b>|</b> <br>
 <b>|</b> build bigger.<br>
-  <b>|</b> > <a href='https://www.bentheanon.io'>bentheanon.io</a><br>
+  <b>|</b> > <a href='https://www.xozxro.io'>xozxro.io</a><br>
 </p>
